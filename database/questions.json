@@ -1,0 +1,374 @@
+{
+    "videos": {
+        "1": {
+            "setID": "lb7wT1gVU7Y",
+            "title": "#01 SET 1",
+            "noq": 5
+        },
+        "2": {
+            "setID": "5Xy-t8k_M4A",
+            "title": "#1 SET 2",
+            "noq": 5
+        },
+        "3": {
+            "setID": "WC-g0JtEIwM",
+            "title": "#1 SET 3",
+            "noq": 0
+        }
+    },
+    "quiz": {
+        "lb7wT1gVU7Y": {
+            "questions": [
+                {
+                    "title": "Which of the following is correct about MongoDB?",
+                    "options": [
+                        {
+                            "title": "MongoDB uses JSON format to represent documents"
+                        },
+                        {
+                            "title": "MongoDB supports collection joins"
+                        },
+                        {
+                            "title": "MongoDB supports some of the SQL functions"
+                        },
+                        {
+                            "title": "MongoDB supports geospatial indexes"
+                        }
+                    ]
+                },
+                {
+                    "title": "MongoDB is written in ....................",
+                    "options": [
+                        {
+                            "title": "C++"
+                        },
+                        {
+                            "title": "Go"
+                        },
+                        {
+                            "title": "JavaScript"
+                        },
+                        {
+                            "title": "Python"
+                        }
+                    ]
+                },
+                {
+                    "title": "Initial release of MongoDB?",
+                    "options": [
+                        {
+                            "title": "February 9, 2011"
+                        },
+                        {
+                            "title": "February 11, 2009"
+                        }
+                    ]
+                },
+                {
+                    "title": "Which of the foliowing is wrong statement -",
+                    "options": [
+                        {
+                            "title": "MongoDB supports search by field, range queries, regular expression searches"
+                        },
+                        {
+                            "title": "MongoDB can store the business subject in the minimal number of documents"
+                        },
+                        {
+                            "title": "Secondary indices is not available in MongoDB"
+                        },
+                        {
+                            "title": "All of the above"
+                        }
+                    ]
+                },
+                {
+                    "title": "MongoDB is a ..... type database?",
+                    "options": [
+                        {
+                            "title": "Relational"
+                        },
+                        {
+                            "title": "document"
+                        },
+                        {
+                            "title": "Command"
+                        },
+                        {
+                            "title": "objects"
+                        }
+                    ]
+                }
+            ]
+        },
+        "5Xy-t8k_M4A": {
+            "questions": [
+                {
+                    "title": "Which statements is correct about mongoose in MongoDB ?",
+                    "options": [
+                        {
+                            "title": "it is Java library to connect with MongoDB"
+                        },
+                        {
+                            "title": "It is used for modeling your application data in node.js"
+                        },
+                        {
+                            "title": "It is Python library to connect with MongoDB"
+                        },
+                        {
+                            "title": "It is a PHP library to connect with MongoDB"
+                        }
+                    ]
+                },
+                {
+                    "title": "In which format MongoDB represents document structure?",
+                    "options": [
+                        {
+                            "title": "BSON"
+                        },
+                        {
+                            "title": ".txt"
+                        },
+                        {
+                            "title": ".Docx"
+                        },
+                        {
+                            "title": "None of these"
+                        }
+                    ]
+                },
+                {
+                    "title": "mongoDB support joins using....?",
+                    "options": [
+                        {
+                            "title": "Join Collection"
+                        },
+                        {
+                            "title": "Join Documents"
+                        }
+                    ]
+                },
+                {
+                    "title": "Which index is used to index the content stored in arrays?",
+                    "options": [
+                        {
+                            "title": "Multikey Index"
+                        },
+                        {
+                            "title": "Compound Index"
+                        },
+                        {
+                            "title": "Text Index"
+                        },
+                        {
+                            "title": "Sparse Index"
+                        }
+                    ]
+                },
+                {
+                    "title": "Which field is always the first field in the document?",
+                    "options": [
+                        {
+                            "title": "_id"
+                        },
+                        {
+                            "title": "Ob_id"
+                        },
+                        {
+                            "title": "id"
+                        },
+                        {
+                            "title": "None of these"
+                        }
+                    ]
+                }
+            ]
+        },
+        "WC-g0JtEIwM": {
+            "questions": []
+        }
+    },
+    "answers": {
+        "lb7wT1gVU7Y": {
+            "questions": [
+                {
+                    "title": "Which of the following is correct about MongoDB?",
+                    "options": [
+                        {
+                            "title": "MongoDB uses JSON format to represent documents"
+                        },
+                        {
+                            "title": "MongoDB supports collection joins"
+                        },
+                        {
+                            "title": "MongoDB supports some of the SQL functions"
+                        },
+                        {
+                            "title": "MongoDB supports geospatial indexes",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "title": "MongoDB is written in ....................",
+                    "options": [
+                        {
+                            "title": "C++",
+                            "correct": true
+                        },
+                        {
+                            "title": "Go",
+                            "correct": true
+                        },
+                        {
+                            "title": "JavaScript",
+                            "correct": true
+                        },
+                        {
+                            "title": "Python",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Initial release of MongoDB?",
+                    "options": [
+                        {
+                            "title": "February 9, 2011"
+                        },
+                        {
+                            "title": "February 11, 2009",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Which of the foliowing is wrong statement -",
+                    "options": [
+                        {
+                            "title": "MongoDB supports search by field, range queries, regular expression searches"
+                        },
+                        {
+                            "title": "MongoDB can store the business subject in the minimal number of documents"
+                        },
+                        {
+                            "title": "Secondary indices is not available in MongoDB",
+                            "correct": true
+                        },
+                        {
+                            "title": "All of the above"
+                        }
+                    ]
+                },
+                {
+                    "title": "MongoDB is a ..... type database?",
+                    "options": [
+                        {
+                            "title": "Relational"
+                        },
+                        {
+                            "title": "document",
+                            "correct": true
+                        },
+                        {
+                            "title": "Command"
+                        },
+                        {
+                            "title": "objects"
+                        }
+                    ]
+                }
+            ]
+        },
+        "5Xy-t8k_M4A": {
+            "questions": [
+                {
+                    "title": "Which statements is correct about mongoose in MongoDB ?",
+                    "options": [
+                        {
+                            "title": "it is Java library to connect with MongoDB"
+                        },
+                        {
+                            "title": "It is used for modeling your application data in node.js",
+                            "correct": true
+                        },
+                        {
+                            "title": "It is Python library to connect with MongoDB"
+                        },
+                        {
+                            "title": "It is a PHP library to connect with MongoDB"
+                        }
+                    ]
+                },
+                {
+                    "title": "In which format MongoDB represents document structure?",
+                    "options": [
+                        {
+                            "title": "BSON",
+                            "correct": true
+                        },
+                        {
+                            "title": ".txt"
+                        },
+                        {
+                            "title": ".Docx"
+                        },
+                        {
+                            "title": "None of these"
+                        }
+                    ]
+                },
+                {
+                    "title": "mongoDB support joins using....?",
+                    "options": [
+                        {
+                            "title": "Join Collection"
+                        },
+                        {
+                            "title": "Join Documents",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Which index is used to index the content stored in arrays?",
+                    "options": [
+                        {
+                            "title": "Multikey Index",
+                            "correct": true
+                        },
+                        {
+                            "title": "Compound Index"
+                        },
+                        {
+                            "title": "Text Index"
+                        },
+                        {
+                            "title": "Sparse Index"
+                        }
+                    ]
+                },
+                {
+                    "title": "Which field is always the first field in the document?",
+                    "options": [
+                        {
+                            "title": "_id",
+                            "correct": true
+                        },
+                        {
+                            "title": "Ob_id"
+                        },
+                        {
+                            "title": "id"
+                        },
+                        {
+                            "title": "None of these"
+                        }
+                    ]
+                }
+            ]
+        },
+        "WC-g0JtEIwM": {
+            "questions": []
+        }
+    }
+}
